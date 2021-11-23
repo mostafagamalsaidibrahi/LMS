@@ -1,0 +1,23 @@
+.getCourses{
+  height: 500px;
+}
+.getCourses .info{
+  width: 60%;
+  height: 100%;
+  margin: auto;
+  padding: 20px;
+}
+.table .thead-dark th{
+  color: #fff;
+  background-color: #115373;
+  border-color: #115373;
+}
+.table tbody tr td > a{
+  border: 1px solid #115373;
+  padding: 5px 20px;
+  text-decoration: none;
+  background-color: #115373;
+  color: #fff;
+  font-size: 15px;
+  border-radius: 5px;
+}

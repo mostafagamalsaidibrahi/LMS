@@ -1,0 +1,11 @@
+.students{
+  width: 80%;
+  margin: auto;
+}
+.students .requests-table .table > tbody > tr > td{
+  font-weight: bold;
+}
+.students .requests-table .table > tbody > tr > td > .reject{
+  color: red;
+  margin-left: 10px;
+}

@@ -1,0 +1,11 @@
+.requests-table .table > tbody > tr > td > .pdf_open{
+  background-color: #fff;
+  color: #000;
+  border: none;
+}
+.requests-table .table > tbody > tr > td > .pdf_open:hover{
+  background-color: #fff;
+  color: #000;
+  border: none;
+  text-decoration: underline;
+}

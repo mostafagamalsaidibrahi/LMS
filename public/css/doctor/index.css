@@ -1,0 +1,29 @@
+.content .slider-section{
+  width: 80%;
+  margin: auto;
+  border-radius: 20px;
+}
+.carousel-inner{
+  border-radius: 20px;
+  border: 2px solid #115373;
+}
+.about{
+  text-align: center;
+}
+.about > h1{
+  border-top: 2px solid #115373;
+  border-bottom: 2px solid #115373;
+  padding: 10px;
+  display: inline-block;
+  color: #115373
+}
+.about > p{
+  font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+  font-size: 20px;
+}
+.head-section .container-fluid .row .info > button{
+  background: none;
+  border: none;
+  color: #fff;
+  font-size: 30px;
+}

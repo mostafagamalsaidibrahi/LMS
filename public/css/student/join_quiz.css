@@ -1,0 +1,35 @@
+.request-quiz{
+  margin: auto;
+  width: 50%;
+}
+.request-quiz > form > label{
+  color: #115373;
+  font-size: 20px;
+  font-weight: bold;
+}
+.request-quiz > form > select{
+  border: 2px solid #115373;
+  padding: 10px 40px;
+  color: #115373;
+  font-size: 20px;
+  font-weight: bold;
+  border-radius: 10px;
+}
+.request-quiz > form > select > option{
+  border: 2px solid #115373;
+  padding: 10px 40px;
+  color: #fff;
+  background-color: #115373;
+}
+.request-quiz > form > button{
+    border: 2px solid #115373;
+    width: 80%;
+    padding: 10px;
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #115373;
+    border-radius: 20px;
+    outline: none;
+    margin-top: 20px;
+}

@@ -1,0 +1,51 @@
+.quiz_settings{
+  width: 60%;
+  margin: auto;
+}
+.quiz_settings .title{
+  width: 100%;
+}
+.quiz_settings .title > h1{
+  color: #115373;
+}
+.quiz_settings .action{
+  margin-top: 20px;
+}
+.quiz_settings .action > button ,
+.quiz_settings .action > a {
+    margin-left: 20px;
+    border: 2px solid #115373;
+    width: 30%;
+    padding: 10px;
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #115373;
+    border-radius: 20px;
+    outline: none;
+}
+/* Model Style */
+.modal .modal-dialog .modal-content .modal-header > h5{
+  color: #115373;
+  font-size: 25px;
+}
+.modal .modal-dialog .modal-content .modal-body > form >label{
+  color: #115373;
+  font-size: 20px;
+}
+.modal .modal-dialog .modal-content .modal-body > form >input ,
+.modal .modal-dialog .modal-content .modal-body > form >textarea ,
+.modal .modal-dialog .modal-content .modal-body > form > select{
+  border: 2px solid #115373;
+  width: 100%;
+  padding: 4px;
+  color: #115373;
+  font-size: 20px;
+  border-radius: 10px;
+  outline: none;
+}
+.modal .modal-dialog .modal-content .modal-footer .add {
+  background-color: #115373;
+  border: 2px solid #115373;
+  color: #fff;
+}

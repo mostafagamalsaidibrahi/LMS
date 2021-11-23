@@ -1,0 +1,48 @@
+.result{
+  width: 60%;
+  margin: auto;
+  border: 2px solid #115373;
+}
+.result .head{
+  background-color: #115373;
+  height: 70px;;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+}
+.result .stdData .container-fluid .row .image{
+  padding: 20px;
+}
+.result .stdData .container-fluid .row .image > img{
+  height: 100px;
+  width: 100%;
+}
+.result .stdData .container-fluid .row .data{
+}
+.result .stdData .container-fluid .row .data > p .title{
+  color: #115373;
+  font-size: 20px;
+  font-weight: bold;
+}
+.result .finalResult{
+  text-align: center;
+  color: #115373;
+}
+.result .finalResult > .query{
+  font-size: 80px;
+}
+.result .finalResult > .gradeinfo{
+  font-size: 20px;
+  font-weight: bold;
+}
+.result .doctorsign{
+  padding: 20px;
+}
+.result .doctorsign > p{
+  color: #115373;
+  font-size: 20px;
+}
+.result .doctorsign > p > .sign{
+  font-family: Brush Script MT, Brush Script Std, cursive;
+}

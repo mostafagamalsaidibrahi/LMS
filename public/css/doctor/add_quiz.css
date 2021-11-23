@@ -1,0 +1,44 @@
+.quiz-details{
+  width: 80%;
+  margin: auto;
+}
+.quiz-details > form > input{
+  border: 2px solid #115373;
+    width: 50%;
+    padding: 10px;
+    color: #115373;
+    font-size: 20px;
+    border-radius: 10px;
+    outline: none;
+}
+.quiz-details > form > button{
+    border: 2px solid #115373;
+    padding: 10px;
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #115373;
+    border-radius: 20px;
+    outline: none;
+    text-decoration: none;
+    margin-left: 10px;
+}
+.quiz-details > form > select{
+    border: 2px solid #115373;
+    padding: 10px 40px;
+    color: #115373;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+.quiz-details > form > select > option{
+    border: 2px solid #115373;
+    padding: 10px 40px;
+    color: #fff;
+    background-color: #115373;
+}
+.quiz-details > form > label{
+  color: #115373;
+  font-size: 20px;
+  font-weight: bold;
+}

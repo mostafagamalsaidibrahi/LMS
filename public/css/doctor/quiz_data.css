@@ -1,0 +1,18 @@
+.set-quiz-data{
+  width: 40%;
+  margin: auto;
+  box-shadow: 5px 5px 5px 5px #aaa;
+  border-radius: 20px;
+}
+.set-quiz-data h1{
+  color: #115373;
+}
+.set-quiz-data .form-add{
+  width: 90%;
+  margin: auto;
+  padding-bottom: 30px;
+}
+.set-quiz-data .form-add > form > button{
+  background-color: #115373;
+  border: 1px solid #115373;
+}

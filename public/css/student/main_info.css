@@ -1,0 +1,21 @@
+.main-info-form{
+  height: 100%;
+  width: 100%;
+}
+.main-info-form .actualy-form{
+    width: 40%;
+    margin: auto;
+    box-shadow: 5px 5px 5px 5px #aaa;
+    border-radius: 20px;
+    padding: 20px;
+}
+.main-info-form .actualy-form > form .rows > input{
+  color: #115373;
+  border: 1px solid #115373;
+  padding: 10px;
+}
+.main-info-form .actualy-form > form .rows > button {
+  color: #fff;
+  background-color: #115373;
+  border: 1px solid #115373;
+}

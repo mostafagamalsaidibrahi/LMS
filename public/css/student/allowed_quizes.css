@@ -1,0 +1,58 @@
+.quizes{
+  margin: auto;
+  width: 50%;
+}
+.showCourses > button{
+  margin-left: 20px;
+  border: 2px solid #115373;
+  width: 30%;
+  padding: 10px;
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+  background-color: #115373;
+  border-radius: 20px;
+  outline: none;
+}
+.showCourses .courseData {
+    width: 50%;
+    margin: auto
+  }
+  .showCourses .courseData .requests-table{
+    width: 70%;
+    margin: auto;
+  }
+  .showCourses .courseData .table .thead-dark th{
+    color: #fff;
+    background-color: #115373;
+    border-color: #115373;
+  }
+  .showCourses .courseData .table > tbody > tr > td > .accept ,
+  .showCourses .courseData .table > tbody > tr > td > .reject{
+    font-size: 20px;
+    margin-right: 20px;
+  }
+  .showCourses .courseData .table > tbody > tr > .wait{
+    color: #115373;
+    font-weight: bold;
+  }
+  .showCourses .courseData .table > tbody > tr > .accept{
+    color: green;
+    font-weight: bold;
+  }
+    .showCourses .courseData .table > tbody > tr > .accept > a{
+      margin-left: 20px;
+      text-decoration: none;
+    }
+.showCourses .courseData .table > tbody > tr > .accept > span{
+      margin-left: 20px;
+      border: 1px solid red;
+      padding: 5px;
+      color: #fff;
+      background-color: red;
+      border-radius: 20px;
+}
+  .showCourses .courseData .table > tbody > tr > .reject{
+    color: red;
+    font-weight: bold;
+  }

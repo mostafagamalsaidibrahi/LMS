@@ -1,0 +1,17 @@
+.add-user{
+  width: 40%;
+  margin: auto;
+  height: 450px;
+  box-shadow: 5px 5px 5px 5px #aaa;
+  border-radius: 20px;
+}
+.add-user .form-add{
+  width: 90%;
+  margin: auto;
+  height: 88%;
+}
+.add-user .form-add > form > a{
+  background-color: #115373;
+  border: 1px solid #115373;
+  text-decoration: none;
+}

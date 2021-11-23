@@ -1,0 +1,72 @@
+.getting-quiz-question{
+  width: 100%;
+}
+.getting-quiz-question .quiz-title{
+  text-align: left;
+  position: fixed;
+  width: 300px;
+  height: 30%;
+  padding: 20px;
+}
+.card-header{
+  background-color: #115373;
+  color: #fff;
+  border: 1px solid #115373;
+  font-weight: bold;
+}
+.list-group-flush .list-group-item{
+  color: #115373;
+  font-weight: bold;
+}
+.getting-quiz-question .quiz-data{
+  margin-left: 300px;
+}
+.getting-quiz-question .quiz-data .questions{
+  width: 95%;
+  margin: auto;
+}
+.getting-quiz-question .quiz-data .details{
+  margin-top: 20px;
+}
+.getting-quiz-question .quiz-data .details .stop-watch{
+  text-align: center;
+}
+.getting-quiz-question .quiz-data .details .stop-watch .timer > span{
+  color: #fff;
+  font-size: 30px;
+  border: 2px solid #115373;
+  padding: 10px;
+  border-radius: 20px;
+  background-color: #115373;
+}
+.getting-quiz-question .quiz-data .details .quiz{
+  margin-top: 50px;
+  padding-bottom: 20px;
+  border: 2px solid #115373;
+   box-shadow: 5px 10px #888888;
+}
+.getting-quiz-question .quiz-data .details .quiz .ques{
+  margin-left: 20px;
+  font-size: 20px;
+  color: #115373;
+  font-weight: bold;
+}
+.getting-quiz-question .quiz-data .details .quiz .choice .container .row .choice1{
+  font-size: 16px;
+  font-weight: bold;
+}
+.getting-quiz-question .quiz-data .details .quiz .choice .container .row .choice1 > input{
+  background-color: red;
+}
+.getting-quiz-question .quiz-data .details > form > button{
+  border: 2px solid #115373;
+    width: 50%;
+    padding: 10px;
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #115373;
+    border-radius: 20px;
+    outline: none;
+    justify-content: center;
+}
